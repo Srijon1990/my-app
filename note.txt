@@ -1,0 +1,44 @@
+1. .next folder :
+This folder is created by the command npm run build . 
+
+
+2. app directory folder :
+This is the main folder.This folder is created by the command npm  run build .
+
+3. node_modules :
+According to the package.json  folder all dependency packages libeary are written here.
+
+4. public directory :
+this is auto genarated folder . All staric file and images , SVG, icons  are store  here.
+
+5. .gitignore file :
+This is auto generated file and we write here which items are not go to github repo . 
+
+6. jsconfig.json file :
+This is a auto generated file.
+
+7. next.config.js file :
+This is also a auto generated file . All configuration are write here . 
+
+8. package-lock.json file :
+this is auto generated file.
+
+9. package.json file :
+This is auto genarated file. all dependences are written here . 
+
+10. postcss.config.js :
+This is a auto generated file . This is created for install tailwindcss  .
+
+11. README.md file :
+This is git reposotory file . automatically created .
+
+12. Tailwind.config.js dile : 
+this Tailwind configaration file . 
+
+
+
+
+
+
+
+
